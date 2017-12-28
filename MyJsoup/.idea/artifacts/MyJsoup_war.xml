@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="MyJsoup:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="MyJsoup.war">
-      <element id="artifact" artifact-name="MyJsoup:war exploded" />
-    </root>
-  </artifact>
-</component>
